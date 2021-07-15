@@ -1,0 +1,21 @@
+{
+  "npmScope": "myproj",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "cars-app": {
+      "tags": []
+    },
+    "cars-app-e2e": {
+      "tags": []
+    },
+    "cars-state": {
+      "tags": []
+    }
+  }
+}
